@@ -27,6 +27,7 @@
 		FA3D99B9105EAC920075FE34 /* volumedown.png in Resources */ = {isa = PBXBuildFile; fileRef = FA3D99B7105EAC920075FE34 /* volumedown.png */; };
 		FA3D99BA105EAC920075FE34 /* volumeup.png in Resources */ = {isa = PBXBuildFile; fileRef = FA3D99B8105EAC920075FE34 /* volumeup.png */; };
 		FA4A19C0152D3EE300FDB704 /* engine.caf in Resources */ = {isa = PBXBuildFile; fileRef = FA4A19BF152D3EE300FDB704 /* engine.caf */; };
+		FA4CE6CC15F2E04400544934 /* Readme.markdown in Resources */ = {isa = PBXBuildFile; fileRef = FA4CE6CB15F2E04400544934 /* Readme.markdown */; };
 		FA74238310A87F4300342F0E /* License in Resources */ = {isa = PBXBuildFile; fileRef = FA74238210A87F4300342F0E /* License */; };
 /* End PBXBuildFile section */
 
@@ -61,6 +62,7 @@
 		FA3D99B7105EAC920075FE34 /* volumedown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = volumedown.png; sourceTree = "<group>"; };
 		FA3D99B8105EAC920075FE34 /* volumeup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = volumeup.png; sourceTree = "<group>"; };
 		FA4A19BF152D3EE300FDB704 /* engine.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = engine.caf; sourceTree = "<group>"; };
+		FA4CE6CB15F2E04400544934 /* Readme.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Readme.markdown; sourceTree = "<group>"; };
 		FA74238210A87F4300342F0E /* License */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = License; path = ../License; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -84,6 +86,7 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				FA4CE6CB15F2E04400544934 /* Readme.markdown */,
 				FA74238210A87F4300342F0E /* License */,
 				FA3D9983105EA88A0075FE34 /* Debug */,
 				FA3D9977105EA8850075FE34 /* SoundEngine */,
@@ -236,6 +239,7 @@
 				FA3D99BA105EAC920075FE34 /* volumeup.png in Resources */,
 				FA74238310A87F4300342F0E /* License in Resources */,
 				FA4A19C0152D3EE300FDB704 /* engine.caf in Resources */,
+				FA4CE6CC15F2E04400544934 /* Readme.markdown in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

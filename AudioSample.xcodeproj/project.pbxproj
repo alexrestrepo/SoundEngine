@@ -112,9 +112,6 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
-				FA3D9987105EA8920075FE34 /* OpenAL.framework */,
-				FA3D9989105EA8970075FE34 /* AudioToolbox.framework */,
-				FA3D998B105EA89A0075FE34 /* AVFoundation.framework */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -146,6 +143,9 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				FA3D998B105EA89A0075FE34 /* AVFoundation.framework */,
+				FA3D9989105EA8970075FE34 /* AudioToolbox.framework */,
+				FA3D9987105EA8920075FE34 /* OpenAL.framework */,
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,

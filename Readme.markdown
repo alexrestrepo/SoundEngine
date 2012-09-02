@@ -23,4 +23,4 @@ Version History:
 1.0 Initial Release
 1.1 Fixed a bug with changing the pitch of multiple simultaneous sounds. 11/9/09
 
-![](screen.png)
+![](https://raw.github.com/alexrestrepo/SoundEngine/master/screen.png)
